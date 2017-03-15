@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\obj\Debug\EjercicioAutomatizacionPSL.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\bin\Debug\EjercicioAutomatizacionPSL.dll
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\bin\Debug\EjercicioAutomatizacionPSL.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\bin\Debug\Business.dll
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\bin\Debug\WebDriver.dll
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\bin\Debug\POM.dll
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\bin\Debug\Business.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\bin\Debug\WebDriver.xml
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\bin\Debug\POM.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\obj\Debug\EjercicioAutomatizacionPSL.dll
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\EjercicioAutomatizacionPSL\EjercicioAutomatizacionPSL\obj\Debug\EjercicioAutomatizacionPSL.pdb
